@@ -1,6 +1,6 @@
 # image2story
 
-Written by LIN Jinghong, WEI Qing, SHI Siyuan
+Written by LIN Jinghong, WEI Qing, YAN Xu, SHI Siyuan
 
 ## project introduction
 
